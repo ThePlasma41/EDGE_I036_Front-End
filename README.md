@@ -4,7 +4,7 @@ A full-featured Kanban task manager built with React + Vite.
 **IICT, CUET — React JS Final Project 2026**
 
 ## Live URL
-> Add your Vercel URL here after deployment: `https://taskboard-xxx.vercel.app`
+>  Vercel URL here after deployment: `https://taskboard-xxx.vercel.app`
 
 ## Demo Credentials
 | Field | Value |
@@ -63,7 +63,7 @@ npm run preview
 ```
 
 ## Screenshot
-> Add a screenshot of the board here after deployment.
+>  screenshot of the board here after deployment.
 
 ---
 
